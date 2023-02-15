@@ -54,8 +54,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'fleek-network', // Usually your GitHub org/user name.
-  projectName: 'fleek-network-docs', // Usually your repo name.
+  organizationName: 'hipotecas', // Usually your GitHub org/user name.
+  projectName: 'fleek', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
