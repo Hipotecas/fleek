@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocta=self.webpackChunkdocta||[]).push([[6331],{3756:e=>{e.exports=JSON.parse('{"label":"blog","permalink":"/fleek/blog/tags/blog","allTagsPath":"/fleek/blog/tags","count":2}')}}]);

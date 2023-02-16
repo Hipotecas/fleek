@@ -4,8 +4,8 @@
   <ShortName>Fleek Network Docs</ShortName>
   <Description>Search Fleek Network Docs</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://docs.fleek.network/img/favicon.ico?202301091316</Image>
-  <Url type="text/html" method="get" template="https://docs.fleek.network/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://docs.fleek.network/opensearch.xml" />
-  <moz:SearchForm>https://docs.fleek.network/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://docs.fleek.network/fleek/img/favicon.ico?202301091316</Image>
+  <Url type="text/html" method="get" template="https://docs.fleek.network/fleek/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://docs.fleek.network/fleek/opensearch.xml" />
+  <moz:SearchForm>https://docs.fleek.network/fleek/</moz:SearchForm>
 </OpenSearchDescription>
