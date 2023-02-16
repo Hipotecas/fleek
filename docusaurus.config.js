@@ -47,7 +47,7 @@ const config = {
   title: 'Fleek Network Docs',
   tagline: 'Welcome to the docs of Fleek Network, a lightning fast and decentralized CDN built to supercharge web3.',
   url: 'https://docs.fleek.network',
-  baseUrl: '/',
+  baseUrl: '/fleek/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico?202301091316',
